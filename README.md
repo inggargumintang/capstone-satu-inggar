@@ -17,7 +17,7 @@ Fitur ini memungkinkan pengguna untuk melihat daftar nilai siswa yang telah diin
 
 ![menampilkan data](image/tampilkan_data.png)
 
-![edit data](image\edit_data.png)
+![edit data](image/edit_data.png)
 
 |          Sebelum Dihapus          |         Setelah Dihapus         |
 | :-------------------------------: | :-----------------------------: |
