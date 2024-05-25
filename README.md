@@ -21,46 +21,46 @@ Fitur ini memungkinkan pengguna untuk melihat daftar nilai siswa yang telah diin
 
 |          Sebelum Dihapus          |         Setelah Dihapus         |
 | :-------------------------------: | :-----------------------------: |
-| ![before](image\hapus_before.png) | ![after](image\hapus_after.png) |
+| ![before](image/hapus_before.png) | ![after](image/hapus_after.png) |
 
 ## 2. Mencari Data Nilai Siswa
 
 Fitur ini memungkinkan pengguna untuk mencari data nilai siswa berdasarkan kriteria tertentu, seperti nama, NIS, jenis kelamin, kelas, atau peminatan. Pengguna dapat memasukkan kriteria pencarian yang diinginkan, dan sistem akan menampilkan data nilai siswa yang sesuai dengan kriteria tersebut.
 
-![cari data](image\cari_siswa.png)
+![cari data](image/cari_siswa.png)
 
 ### berdasarkan
 
 |          Nomer Induk          |          Nama           |               Jenis Kelamin               |           Kelas           |             Peminatan             |
 | :---------------------------: | :---------------------: | :---------------------------------------: | :-----------------------: | :-------------------------------: |
-| ![nomer induk](image\NIS.png) | ![nama](image\nama.png) | ![jenis kelamin](image\jenis_kelamin.png) | ![kelas](image\kelas.png) | ![peminatan](image\peminatan.png) |
+| ![nomer induk](imageiNIS.png) | ![nama](image/nama.png) | ![jenis kelamin](image/jenis_kelamin.png) | ![kelas](image/kelas.png) | ![peminatan](image/peminatan.png) |
 
 ## 3. Mengurutkan Data Nilai Siswa
 
 Fitur ini memungkinkan pengguna untuk mengurutkan data nilai siswa berdasarkan kriteria tertentu, seperti nama siswa atau rata-rata nilai siswa. Pengguna dapat memilih kriteria pengurutan yang diinginkan, dan sistem akan menampilkan data nilai siswa yang telah diurutkan berdasarkan kriteria tersebut.
 
-![urutakan data](image\urutkan_data.png)
+![urutakan data](image/urutkan_data.png)
 
 ### berdasarkan :
 
 |             Nama             |           Rata-rata Nilai           |
 | :--------------------------: | :---------------------------------: |
-| ![nama](image\urut_nama.png) | ![urut nilai](image\urut_nilai.png) |
+| ![nama](image/urut_nama.png) | ![urut nilai](image/urut_nilai.png) |
 
 ## 4. Membandingkan Nilai Siswa
 
 Fitur ini memungkinkan pengguna untuk membandingkan nilai siswa secara lebih rinci. Pengguna dapat melihat perbandingan nilai berdasarkan beberapa kategori seperti jenis kelamin, kelas, dan peminatan.
 
-![perbandingan](image\perbandingan.png)
+![perbandingan](image/perbandingan.png)
 
 ## 5. Menambahkan Data Nilai Siswa
 
 Fitur ini memungkinkan pengguna untuk menambahkan data nilai siswa baru ke dalam sistem. Pengguna akan diminta untuk memasukkan informasi seperti nama, NIS, jenis kelamin, kelas, peminatan, dan nilai-nilai untuk setiap mata pelajaran.
 
-![menambahkan data](image\tambah_data.png)
+![menambahkan data](image/tambah_data.png)
 
 ## 6. Keluar
 
 Fitur ini memungkinkan pengguna untuk keluar dari aplikasi setelah selesai menggunakan program.
 
-![keluar](image\keluar.png)
+![keluar](image/keluar.png)
