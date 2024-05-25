@@ -15,7 +15,7 @@
 
 Fitur ini memungkinkan pengguna untuk melihat daftar nilai siswa yang telah diinput ke dalam sistem. Ketika memilih fitur ini, pengguna akan disajikan dengan tampilan yang menunjukkan semua data nilai siswa yang tersedia. Pada tampilan ini, pengguna juga diberikan opsi untuk melakukan edit atau hapus data berdasarkan nama atau NIS (Nomor Induk Siswa) siswa.
 
-![menampilkan data](image\tampilkan_data.png)
+![menampilkan data](image/tampilkan_data.png)
 
 ![edit data](image\edit_data.png)
 
