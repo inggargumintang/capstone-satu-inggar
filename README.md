@@ -33,7 +33,7 @@ Fitur ini memungkinkan pengguna untuk mencari data nilai siswa berdasarkan krite
 
 |          Nomer Induk          |          Nama           |               Jenis Kelamin               |           Kelas           |             Peminatan             |
 | :---------------------------: | :---------------------: | :---------------------------------------: | :-----------------------: | :-------------------------------: |
-|![nomer induk](imagei/NIS.png) | ![nama](image/nama.png) | ![jenis kelamin](image/jenis_kelamin.png) | ![kelas](image/kelas.png) | ![peminatan](image/peminatan.png) |
+| ![nomer induk](image/NIS.png) | ![nama](image/nama.png) | ![jenis kelamin](image/jenis_kelamin.png) | ![kelas](image/kelas.png) | ![peminatan](image/peminatan.png) |
 
 ## 3. Mengurutkan Data Nilai Siswa
 
