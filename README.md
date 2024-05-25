@@ -1,6 +1,6 @@
 # Data Nilai Siswa
 
-![Antarmuka Awal](image\halaman_awal.png)
+![Antarmuka Awal](image/halaman_awal.png)
 
 ## Daftar Isi
 
